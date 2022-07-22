@@ -1,0 +1,23 @@
+.image-details-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.image-style {
+  height: 300px;
+  width: 400px;
+}
+
+.name {
+  color: #f1f5f9;
+  font-family: 'Consolas';
+  font-size: 45px;
+}
+
+.description {
+  color: #f1f5f9;
+  font-family: 'Consolas';
+  font-size: 15px;
+}
